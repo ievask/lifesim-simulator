@@ -49,11 +49,11 @@ impact2 - SDQ impact score (sweep 2)
 impact3 - SDQ impact score (sweep 3)
 impact4 - SDQ impact score (sweep 4)
 
-g2 - congitive skills measure (sweep 2)
-g3 - congitive skills measure (sweep 3)
-g4 - congitive skills measure (sweep 4)
-g5 - congitive skills measure (sweep 5)
-g6 - congitive skills measure (sweep 6)
+g2 - cognitive skills measure (sweep 2)
+g3 - cognitive skills measure (sweep 3)
+g4 - cognitive skills measure (sweep 4)
+g5 - cognitive skills measure (sweep 5)
+g6 - cognitive skills measure (sweep 6)
 
 fovwt1 - Overall Weight (inc NR adjustment) single country analyses (sweep 6)
 
