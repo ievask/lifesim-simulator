@@ -1,4 +1,9 @@
-Copyright 2021 Ieva Skarda (ieva.skarda@york.ac.uk), Miqdad Asaria, Richard Cookson, University of York 
+Copyright 2021 Ieva Skarda (ieva.skarda@york.ac.uk), Miqdad Asaria, Richard Cookson, University of York
+
+Please cite:
+Skarda, I, Asaria, M, and Cookson, R; 2021; LifeSim: A Lifecourse Dynamic Microsimulation Model
+of the Millennium Birth Cohort in England; International Journal of Microsimulation; 14(1); 2-42. 
+DOI: https://doi.org/10.34196/IJM.00228 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
